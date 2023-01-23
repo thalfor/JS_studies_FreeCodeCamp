@@ -13,6 +13,16 @@ We have two types of folders here:
 
 ---
 
+## 📕 Subjects
+
+You'll find here:
+
+- Path
+- HTTP
+- JS
+
+---
+
 ## 👨‍🎓 Exercises
 
 To conclude this [FreeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) about JavaScript i had to deliver 5 projects:
