@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { isTypedArray } = require("util/types");
 
-// criar uma pasta
+// creating folder
 // comentado pois já foi rodado uma vez
 /*
 fs.mkdir(path.join(__dirname, '/test'),(error)=>{
@@ -13,7 +13,7 @@ fs.mkdir(path.join(__dirname, '/test'),(error)=>{
 });
 */
 
-// criar arquivo
+// file creation
 fs.writeFile(
   path.join(__dirname, "/test", "test.txt"),
   "hello node",
@@ -57,7 +57,7 @@ fs.writeFile(path.join(__dirname, '/test', 'test.txt'), 'hello node', (error) =>
 });
 */
 
-// adicionar arquivo
+// adding file
 // dessa forma sai apenas hello node pois método é assíncrono, necessário colocar dentro do callback da função de append para ler tudo, ver código acima para entendimento
 /*
 fs.appendFile(path.join(__dirname, '/test', 'test.txt'), ' hello world', (error) =>{
@@ -68,7 +68,7 @@ fs.appendFile(path.join(__dirname, '/test', 'test.txt'), ' hello world', (error)
 });
 */
 
-// ler arquivo
+// reading file
 // dessa forma sai apenas hello node pois método é assíncrono, necessário colocar dentro do callback da função de append para ler tudo, ver código acima para entendimento
 /*
 fs.readFile(path.join(__dirname, '/test', 'test.txt'), 'utf8', (error, data) =>{
