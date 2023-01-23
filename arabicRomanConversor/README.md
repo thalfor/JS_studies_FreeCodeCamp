@@ -1,6 +1,6 @@
 # Arabic to Roman Conversor
 
-This was a [FreeCodeCamp](https://www.freecodecamp.org/) JS Project that was required to complete the course [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
+This was a [FreeCodeCamp](https://www.freecodecamp.org/) JS Project [(link)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter) that was required to complete the course [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
 
 ## Important note:
 
