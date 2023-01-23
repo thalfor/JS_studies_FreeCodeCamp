@@ -32,3 +32,7 @@ it is our job to check if if it's necessary the return some amount of money and 
 - if it's possible to return and we have the change (that is not the total amount of our cash register) we print "OPEN"
 - if it's impossible, we do not have the amount required we print "INSUFFICIENT_FUNDS"
 - if it's possible to return and we have the change and it is the total amount of our cash register we print "CLOSED"
+
+## Codes
+
+you'll notice we have two codes, the "cashRegister.js" was what i did for the course and the "cashRegisterFunction.js" is a upgrade using a function to optmize the process.
