@@ -8,8 +8,8 @@ This repository wass created to keep my small JS projects and studies organized 
 
 We have two types of folders here:
 
-- FS, HTTP, PATH: this ones are for studies about the respective subjects in JS.
-- all of the other are projects / exercises.
+- Subjects: this ones are for studies about specific subjects in JS.
+- Exercises: projects / exercises that were done to concluse courses or about studies of my own.
 
 ---
 
