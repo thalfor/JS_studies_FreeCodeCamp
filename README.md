@@ -1,6 +1,6 @@
-<h1 align="center">JS Studies</h1>
+<h1 align="center">JS Studies - Free Code Camp</h1>
 
-This repository wass created to keep my small JS projects and studies organized in a way that it will help not only me but others that wish to study JS.
+This repository was created to keep my small JS projects and studies organized in a way that it will help not only me but others that wish to study JS.
 
 ---
 
