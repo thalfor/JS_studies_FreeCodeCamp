@@ -39,4 +39,4 @@ The Fibonacci was done during Iteration studies on my own.
 
 ## 🔚 Conclusion
 
-This repository will continue to grow as my studies will not stop. Full projects will not be posted here but will have their own repository for better organization.
+My studies will not stop. Full projects will not be posted here but will have their own repository for better organization.
